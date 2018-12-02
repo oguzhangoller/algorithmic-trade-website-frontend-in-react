@@ -1,0 +1,391 @@
+.ui.container{
+  width:auto !important;
+}
+
+.ui.table{
+  margin-left:auto !important;
+  margin-right:auto !important;
+  
+}
+
+.ui.table.detail{
+  width:100% !important;
+}
+
+.ui.segment{
+}
+
+.input-text {
+  width: 500px !important ;
+  height: 40px;
+}
+
+.second-menu {
+  margin-left: auto !important;
+  width: 150px !important;
+}
+
+#bottom-segment {
+  margin-top: 50px !important;
+  height: 200px;
+}
+
+.ui.inverted.segment {
+  margin-top: 0px;
+  background-color: #3b5998 !important;
+}
+
+.ui.form.login {
+  text-align: center;
+  font-size: 18px !important;
+  margin-top: 100px;
+}
+
+#tickerdict {
+  font-size: 12px;
+  text-align: center !important;
+  margin: 0 auto;
+}
+
+.ui.secondary.inverted.pointing.menu {
+  border: none !important;
+}
+
+#footer {
+  color: white;
+  background-color: #3b5998 !important;
+  bottom: 0px;
+  margin-top: 150px;
+}
+
+#copyright {
+  text-align: center !important;
+  margin-top: 20px;
+}
+
+.tab {
+  padding-right: 10%;
+  color: black;
+}
+
+.tab2 {
+  color: black;
+  font-size: 22px;
+}
+
+.tab3 {
+  color: black;
+  font-size: 18px;
+  float: right;
+}
+
+.portfolio.image {
+  width: 150px;
+  height: 100px;
+  float: left;
+  margin-right: 10px;
+}
+
+.yatirim.image {
+  width: 150px;
+  height: 70px;
+  float: left;
+  margin-right: 10px;
+}
+
+.risk.image {
+  width: 70px;
+  height: 40px;
+  float: top;
+}
+
+.portfolio.name {
+  font-size: 16px;
+  font-weight: bold;
+  color: #1f87e2;
+}
+
+.ui.button {
+  background-color: #2c99ca !important;
+  color: white !important;
+}
+
+.ui.button.olustur {
+  margin-top: 35px !important;
+  margin-left: 45%;
+}
+
+#detay-box {
+  height: 200px !important;
+  position: relative;
+}
+
+.userName {
+  margin-left: 20%;
+  margin-top: 10px;
+}
+
+#miks-detay-resim {
+  width: 20%;
+  margin-right: 20px;
+  float: left;
+}
+
+.detay-buttons {
+  float: right;
+}
+
+.ui.button.miksdetay {
+  margin-right: 20px;
+  margin-top: 20px;
+  width: 150px;
+}
+
+.ui.button.kisisellestir {
+  margin-right: 20px;
+  margin-top: 50px;
+  width: 150px;
+}
+
+.miks-detay {
+  float: left;
+}
+
+#iptal-et {
+  background-color: #8d8d8f !important;
+}
+
+.inline-column {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  padding: 20px;
+  margin-right: 5%;
+  color: grey;
+}
+
+.yatirim-segment {
+  text-align: justify;
+}
+
+.ui.segment.box {
+  display: inline-block;
+  width: 25%;
+  height: 140px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.ui.celled.table tr th:first-child {
+  border-left: none;
+  width: 20% !important;
+}
+
+.ui.segment.left {
+  width: 20% !important;
+  float: left;
+  margin-right: 3% !important;
+  height: 650px;
+}
+
+.ui.segment.second {
+  width: 75% !important;
+  float: left;
+}
+
+.ui.search > .results {
+  left:8% !important;
+  width: 220px !important;
+}
+
+.ui.segment.middle {
+  width: 75% !important;
+  float: left;
+}
+
+.satin.alinan.miks.image {
+  height: 50%;
+  width: 100%;
+}
+
+.miks.text.on.image {
+  position: absolute;
+  height: 30px;
+  width: 100%;
+  bottom: 0px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.miks.text.on.image.second {
+  position: absolute;
+  height: 30px;
+  bottom: 0px;
+  width: 250px !important;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.first-text {
+  margin-top: 15px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-left: 15px;
+}
+
+.left-segment-text {
+  margin-top: 15px !important;
+  margin-left: 10px;
+}
+
+.ui.button.group {
+  margin-top: 20px;
+  width: 100% !important;
+}
+
+.ui.category.search > .results .category {
+  display: block !important;
+}
+
+.ui.category.search {
+  width: 10%;
+  float: right;
+  margin-left: 10%;
+}
+
+.ui.category.search > .results .category .results {
+  display: block !important;
+}
+
+.ui.search > .results .result .image {
+  float: left !important;
+  margin-right: 10px;
+}
+
+.ui.category.search .results {
+  width: 300px !important;
+}
+
+.imagebutton {
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  color: white;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
+
+.ui.dropdown {
+  top: 10px;
+  width: 8%;
+}
+
+.ui.dropdown > .dropdown.icon {
+  margin-left: 3px !important;
+}
+
+#upper-section {
+  display: inline-block;
+}
+
+#left-section {
+  float: left;
+  margin-right: 100px;
+  color: gray;
+}
+
+#upper-section-detay {
+  margin-left: 15%;
+  display: inline-block;
+}
+
+#left-section-detay {
+  float: left;
+  margin-right: 40px;
+  width: 300px;
+  color: gray;
+}
+
+#right-section {
+  float: left;
+  width: 300px;
+  color: grey;
+}
+
+.ui.right.labeled.input {
+  float: left !important;
+  margin-left: 0px !important;
+  margin-bottom: 10px;
+}
+
+#warning {
+  margin-top: 0px;
+  left: 20px;
+}
+
+#rightAlign {
+  color: black;
+  float: right;
+}
+
+#bottom-yazi {
+  margin-top: 30px !important;
+  text-align: center;
+  color: #333;
+  font-size: 12px;
+}
+
+.ui.progress {
+  width: 500px;
+}
+
+.ui.progress .bar {
+  background: green !important;
+}
+
+.ui.celled.table tr td:first-child,
+.ui.celled.table tr th:first-child {
+  width: 40% !important;
+}
+
+.ui.secondary.pointing.menu .item {
+  padding: 10px !important;
+}
+
+
+
+.edit.button.segment {
+  float:right;
+}
+.ui.fluid.dropdown{
+  display: inline-block !important;
+  width: 30% !important;
+}
+
+
+
+.remove-button {
+  background-color: #21759B;
+  cursor:pointer;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 500;
+  width: 30px;
+  height:30px;
+  border-radius: 50%;
+}
+
+#satin-alinan-miks-warning {
+  margin-top: 20px;
+}
