@@ -9,5 +9,6 @@ install instructions:
 -> password: 123456
 - you can then navigate through website using links and buttons
 
-demo: 
+demo:
+
 https://www.youtube.com/watch?v=Hf1leSi4GwU
